@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mvn1</finalName>
+    <finalName>release_0.15</finalName>
   </build>
 </project>
