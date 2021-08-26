@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>release_0.15</finalName>
+    <finalName>release_0.17</finalName>
   </build>
 </project>
